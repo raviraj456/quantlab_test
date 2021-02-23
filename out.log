@@ -1,0 +1,23 @@
+2021-02-23 19:13:49,188 INFO MainThread Reading CSV: C:\Users\ravi1\Documents\QuantLab\input.csv
+2021-02-23 19:13:49,197 INFO MainThread Data read. Created a dataframe called dframe
+2021-02-23 19:13:49,199 INFO MainThread NumExpr defaulting to 4 threads.
+2021-02-23 19:13:49,199 INFO MainThread Successfully created a column called TxnValue, computed as Quantity*Price
+2021-02-23 19:14:21,165 INFO MainThread Starting run at 2021-02-23 19:14:21.165417
+2021-02-23 19:14:21,165 INFO MainThread Reading CSV: C:\Users\ravi1\Documents\QuantLab\input.csv
+2021-02-23 19:14:21,174 INFO MainThread Data read. Created a dataframe called dframe
+2021-02-23 19:14:21,180 INFO MainThread Successfully created a column called TxnValue, computed as Quantity*Price
+2021-02-23 19:14:21,241 INFO MainThread RunTime: 0.07633852958679199
+2021-02-23 19:16:39,807 INFO MainThread Starting run at 2021-02-23 19:16:39.807883
+2021-02-23 19:16:39,807 INFO MainThread Reading CSV: C:\Users\ravi1\Documents\QuantLab\input.csv
+2021-02-23 19:16:39,817 INFO MainThread Data read. Created a dataframe called dframe
+2021-02-23 19:16:39,822 INFO MainThread Successfully created a column called TxnValue, computed as Quantity*Price
+2021-02-23 19:16:39,884 INFO MainThread RunTime: 0.07695174217224121
+2021-02-23 19:17:08,968 INFO MainThread Starting run at 2021-02-23 19:17:08.968147
+2021-02-23 19:17:08,968 INFO MainThread Reading CSV: C:\Users\ravi1\Documents\QuantLab\input.csv
+2021-02-23 19:17:08,968 INFO MainThread Data read. Created a dataframe called dframe
+2021-02-23 19:17:08,983 INFO MainThread Successfully created a column called TxnValue, computed as Quantity*Price
+2021-02-23 19:17:09,045 INFO MainThread RunTime: 0.07689404487609863
+2021-02-23 19:18:05,559 INFO MainThread Starting run at 2021-02-23 19:18:05.559828
+2021-02-23 19:18:05,559 INFO MainThread Reading CSV: C:\Users\ravi1\Documents\QuantLab\input.csv
+2021-02-23 19:18:05,568 INFO MainThread Data read. Created a dataframe called dframe
+2021-02-23 19:18:05,578 INFO MainThread Successfully created a column called TxnValue, computed as Quantity*Price
